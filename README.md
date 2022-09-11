@@ -1,5 +1,6 @@
-﻿## team21
-Our application is called rate your courses.
+﻿## RateYourCourses
+This is a 3-person final project done for CSC309 at Fall 2020 at University of Toronto.
+The other two contributors are https://github.com/feiyangfan and https://github.com/Kyurem1001
 Deployed app URL: https://rateyourcourses-team21.herokuapp.com/
 
 ## Features
