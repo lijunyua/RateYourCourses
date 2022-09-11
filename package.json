@@ -12,21 +12,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/csc309-fall-2020/team21.git"
+    "url": "git+https://github.com/lijunyua/RateYourCourses.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/csc309-fall-2020/team21/issues"
+    "url": "https://github.com/lijunyua/RateYourCourses/issues"
   },
-  "homepage": "https://github.com/csc309-fall-2020/team21#readme",
+  "homepage": "https://github.com/lijunyua/RateYourCourses#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-multiparty": "^2.2.0",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
-    "mongoose": "^5.11.4",
+    "mongoose": "^6.6.0",
     "multiparty": "^4.2.2",
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.19"
   }
 }
