@@ -1,0 +1,35 @@
+.ReviewField{
+	margin-right:10em;
+	margin-left: 10em;
+	margin-top: 40px;
+	text-align: left;
+}
+.RatingValExl{
+	font-size: 2em;
+	text-align: right;
+	color: RoyalBlue;
+}
+.RatingValGood{
+	font-size: 2em;
+	color: DarkCyan;
+}
+.RatingValFair{
+	font-size: 2em;
+	color: DarkSeaGreen;
+}
+.RatingValPoor{
+	font-size: 2em;
+	color: GoldenRod;
+}
+.RatingValBad{
+	font-size: 2em;
+	color: IndianRed;
+}
+.RatingValTer{
+	font-size: 2em;
+	color: Maroon;
+}
+.RatingType
+{
+text-align: right;
+}

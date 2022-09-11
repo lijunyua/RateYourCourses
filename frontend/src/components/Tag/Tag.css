@@ -1,0 +1,13 @@
+.tag {
+    border-radius: 25px;
+    border: 1px solid grey;
+    text-align: center;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.tag:hover {
+    background-color:rgb(238, 238, 238);
+    
+}
