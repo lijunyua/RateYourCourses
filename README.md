@@ -2,6 +2,8 @@
 This is a 3-person final project done for CSC309 at Fall 2020 at University of Toronto.  
 The other two contributors are https://github.com/feiyangfan and https://github.com/Kyurem1001  
 Deployed app URL: https://rate-your-courses.herokuapp.com  
+Also look at the database using MongoDB Compass with the following connection string:  
+mongodb+srv://visitor:visitor@rateyourcoursescluster.yhbldxc.mongodb.net/test  
 
 ## Features
 - Sign in/ Sign up
